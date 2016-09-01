@@ -1,0 +1,60 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.jumbotron{
+
+	background-image: url(pic4.jpg);
+	background-size: cover; 
+	/*color: white;*/
+	text-align: center;
+	
+}
+
+.card-img-top{
+  width:100%;
+  height:auto;
+}
+
+.btnColor{
+
+	background-color: #2586B7;
+	outline: none;
+	border:0px solid;
+}
+
+.lastContainer{
+	text-align: center;
+
+}
+
+.footerDivs{
+	/*padding-left: 20px;*/
+	
+}
+
+.footerparagraph{
+
+	color: white;
+	font-weight: 200;
+	font-size: 12px;
+
+}
+
+
+#footer{
+
+	height: auto;
+	background: #1B2126;
+	padding-left: 40px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.hoverDiv {background: #fff;}
+.hoverDiv:hover {
+	background: #f5f5f5;
+	}
+
+h4:hover{
+	color: white;
+}
